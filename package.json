@@ -1,0 +1,27 @@
+{
+  "name": "automenu_vue_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "bluebird": "^3.5.5",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.12.3",
+    "koa2-cors": "^2.0.6",
+    "mongoose": "^5.6.9",
+    "nodemon": "^1.19.1",
+    "svg-captcha": "^1.4.0",
+    "uuid": "^3.3.2"
+  }
+}

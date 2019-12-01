@@ -1,0 +1,259 @@
+[
+    {
+        "code": 1,
+        "label": "用户管理",
+        "children": [
+            {
+                "code": 1,
+                "label": "查看用户"
+            },
+            {
+                "code": 2,
+                "label": "新增用户"
+            },
+            {
+                "code": 3,
+                "label": "修改用户"
+            },
+            {
+                "code": 4,
+                "label": "注销用户"
+            },
+            {
+                "code": 5,
+                "label": "冻结用户"
+            },
+            {
+                "code": 47,
+                "label": "恢复用户"
+            }
+        ]
+    },
+    {
+        "code": 6,
+        "label": "角色管理",
+        "children": [
+            {
+                "code": 6,
+                "label": "查看角色"
+            },
+            {
+                "code": 7,
+                "label": "新增角色"
+            },
+            {
+                "code": 8,
+                "label": "修改角色"
+            },
+            {
+                "code": 9,
+                "label": "注销角色"
+            },
+            {
+                "code": 10,
+                "label": "恢复角色"
+            }
+        ]
+    },
+    {
+        "code": 11,
+        "label": "部门管理",
+        "children": [
+            {
+                "code": 11,
+                "label": "查看部门"
+            },
+            {
+                "code": 12,
+                "label": "新增部门"
+            },
+            {
+                "code": 13,
+                "label": "修改部门"
+            },
+            {
+                "code": 14,
+                "label": "注销部门"
+            },
+            {
+                "code": 15,
+                "label": "恢复部门"
+            }
+        ]
+    },
+    {
+        "code": 16,
+        "label": "职位管理",
+        "children": [
+            {
+                "code": 16,
+                "label": "查看职位"
+            },
+            {
+                "code": 17,
+                "label": "新增职位"
+            },
+            {
+                "code": 18,
+                "label": "修改职位"
+            },
+            {
+                "code": 19,
+                "label": "注销职位"
+            },
+            {
+                "code": 20,
+                "label": "恢复职位"
+            }
+        ]
+    },
+    {
+        "code": 21,
+        "label": "会议室管理",
+        "children": [
+            {
+                "code": 21,
+                "label": "查看会议室"
+            },
+            {
+                "code": 22,
+                "label": "新增会议室"
+            },
+            {
+                "code": 23,
+                "label": "修改会议室"
+            },
+            {
+                "code": 24,
+                "label": "注销会议室"
+            },
+            {
+                "code": 25,
+                "label": "恢复会议室"
+            }
+        ]
+    },
+    {
+        "code": 26,
+        "label": "会议室终端管理",
+        "children": [
+            {
+                "code": 26,
+                "label": "查看会议室终端"
+            },
+            {
+                "code": 27,
+                "label": "新增会议室终端"
+            },
+            {
+                "code": 28,
+                "label": "修改会议室终端"
+            },
+            {
+                "code": 29,
+                "label": "注销会议室终端"
+            },
+            {
+                "code": 30,
+                "label": "恢复会议室终端"
+            }
+        ]
+    },
+    {
+        "code": 31,
+        "label": "权限管理",
+        "children": [
+            {
+                "code": 31,
+                "label": "查看权限"
+            },
+            {
+                "code": 32,
+                "label": "修改角色权限"
+            },
+            {
+                "code": 33,
+                "label": "修改用户权限"
+            }
+        ]
+    },
+    {
+        "code": 34,
+        "label": "审计管理",
+        "children": [
+            {
+                "code": 34,
+                "label": "查看审计"
+            },
+            {
+                "code": 35,
+                "label": "修改审计"
+            },
+            {
+                "code": 36,
+                "label": "注销审计"
+            },
+            {
+                "code": 37,
+                "label": "导出审计记录"
+            }
+        ]
+    },
+    {
+        "code": 38,
+        "label": "流程审计",
+        "children": [
+            {
+                "code": 38,
+                "label": "查看流程审计"
+            },
+            {
+                "code": 39,
+                "label": "新增流程审计"
+            },
+            {
+                "code": 40,
+                "label": "查看历史批注"
+            },
+            {
+                "code": 41,
+                "label": "查看流程图"
+            }
+        ]
+    },
+    {
+        "code": 42,
+        "label": "日志审计管理",
+        "children": [
+            {
+                "code": 43,
+                "label": "日志审计",
+                "children": [
+                    {
+                        "code": 43,
+                        "label": "查看日志审计"
+                    },
+                    {
+                        "code": 44,
+                        "label": "增加日志审计"
+                    }
+                ]
+            },
+            {
+                "code": 45,
+                "label": "日志设置",
+                "children": [
+                    {
+                        "code": 45,
+                        "label": "查看日志"
+                    },
+                    {
+                        "code": 46,
+                        "label": "配置日志"
+                    }
+                ],
+                "max": 47
+            }
+        ]
+    }
+]
